@@ -1,0 +1,216 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LVN-WebSite.com" resolutions="1x" timestamp="1488837399372">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-gabarit.css" crc="355841815" ref="scisor-blade-(kill-la-kill)-2nd-partie:a-propos:lambent-light-(sword-art-online):scisor-blade-(kill-la-kill):cosplay:murasame(akame-ga-kill):sacrifar-(rave-master):elucidator-(sword-art-online):répliques:index"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="4274064554" ref="scisor-blade-(kill-la-kill)-2nd-partie:a-propos:lambent-light-(sword-art-online):scisor-blade-(kill-la-kill):cosplay:murasame(akame-ga-kill):sacrifar-(rave-master):elucidator-(sword-art-online):répliques:index"/>
+    <file name="scisor-blade-_kill-la-kill_-2nd-partie.css" crc="3788205314" ref="scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="nomq_scisor-blade-_kill-la-kill_-2nd-partie.css" crc="344256537" ref="scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="a-propos.css" crc="74639101" ref="a-propos"/>
+    <file name="nomq_a-propos.css" crc="418253282" ref="a-propos"/>
+    <file name="lambent-light-_sword-art-online_.css" crc="4287543329" ref="lambent-light-(sword-art-online)"/>
+    <file name="nomq_lambent-light-_sword-art-online_.css" crc="331235522" ref="lambent-light-(sword-art-online)"/>
+    <file name="scisor-blade-_kill-la-kill_.css" crc="3881817435" ref="scisor-blade-(kill-la-kill)"/>
+    <file name="nomq_scisor-blade-_kill-la-kill_.css" crc="372167937" ref="scisor-blade-(kill-la-kill)"/>
+    <file name="cosplay.css" crc="498639476" ref="cosplay"/>
+    <file name="nomq_cosplay.css" crc="4006907781" ref="cosplay"/>
+    <file name="murasame_akame-ga-kill_.css" crc="4284005131" ref="murasame(akame-ga-kill)"/>
+    <file name="nomq_murasame_akame-ga-kill_.css" crc="492259767" ref="murasame(akame-ga-kill)"/>
+    <file name="sacrifar-_rave-master_.css" crc="4249574691" ref="sacrifar-(rave-master)"/>
+    <file name="nomq_sacrifar-_rave-master_.css" crc="477388626" ref="sacrifar-(rave-master)"/>
+    <file name="elucidator-_sword-art-online_.css" crc="4266511607" ref="elucidator-(sword-art-online)"/>
+    <file name="nomq_elucidator-_sword-art-online_.css" crc="518741408" ref="elucidator-(sword-art-online)"/>
+    <file name="r_pliques.css" crc="3895495238" ref="répliques"/>
+    <file name="nomq_r_pliques.css" crc="456280133" ref="répliques"/>
+    <file name="index.css" crc="490336410" ref="index"/>
+    <file name="nomq_index.css" crc="458371400" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="accueil-site.avi" crc="4148869845" seo="true" mt="1488828718000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="museutils.js" crc="4232573551" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="whatinput.js" crc="86476730" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:répliques:cosplay:a-propos"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:répliques:cosplay:a-propos:sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="require.js" crc="4234670167" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+  </folder>
+  <folder name="images">
+    <file name="12087944_944930178908661_336976521187616542_o.jpg" crc="4015036190" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u239-5.png" crc="213132104" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="blank.gif" crc="4208392903" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u134.png" crc="4262275252" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u134-a.png" crc="4144612620" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u141.png" crc="96793979" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u141-a.png" crc="154859473" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u622-4.png" crc="3988009684" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u925-4.png" crc="3955658177" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u1011-4.png" crc="4064159826" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u3188-4.png" crc="4140977758" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u3251-4.png" crc="3766832372" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u3369-4.png" crc="433938740" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u181.png" crc="4257422226" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u181-a.png" crc="117551622" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u211.png" crc="4239459770" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u211-a.png" crc="526108106" ref="index:répliques:cosplay:a-propos:murasame(akame-ga-kill):sacrifar-(rave-master):scisor-blade-(kill-la-kill):elucidator-(sword-art-online):lambent-light-(sword-art-online):scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="u247-4.png" crc="194670558" ref="index"/>
+    <file name="u345-6.png" crc="486761484" ref="index"/>
+    <file name="u247-42.png" crc="3759894527" ref="index"/>
+    <file name="u345-62.png" crc="123798378" ref="index"/>
+    <file name="11022535_912867538765159_3806116004594864730_o-crop-u634-page-fr.png" crc="461695700" ref="répliques"/>
+    <file name="u3122-4.png" crc="193080774" ref="répliques"/>
+    <file name="1.jpg" crc="4156739768" seo="true" ref="répliques:murasame(akame-ga-kill)">
+      <caption webpage="murasame(akame-ga-kill)" alt=""/>
+      <caption webpage="murasame(akame-ga-kill)" alt=""/>
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u601-4.png" crc="4265063841" ref="répliques"/>
+    <file name="u3128-4.png" crc="3861486868" ref="répliques"/>
+    <file name="2-crop-u872.jpg" crc="4196953713" seo="true" ref="répliques">
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u901-4.png" crc="4180142001" ref="répliques"/>
+    <file name="u3134-4.png" crc="4166867645" ref="répliques"/>
+    <file name="3.jpg" crc="4024275537" seo="true" ref="répliques:scisor-blade-(kill-la-kill)">
+      <caption webpage="scisor-blade-(kill-la-kill)" alt=""/>
+      <caption webpage="scisor-blade-(kill-la-kill)" alt=""/>
+      <caption webpage="répliques" alt=""/>
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u1065-4.png" crc="3896084901" ref="répliques"/>
+    <file name="12009740_1638536139752641_66544268203160869_n.jpg" crc="3926217486" seo="true" ref="répliques:elucidator-(sword-art-online)">
+      <caption webpage="elucidator-(sword-art-online)" alt=""/>
+      <caption webpage="elucidator-(sword-art-online)" alt=""/>
+      <caption webpage="répliques" alt=""/>
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u3162-4.png" crc="4116597947" ref="répliques"/>
+    <file name="u3144-4.png" crc="4265508964" ref="répliques"/>
+    <file name="13.jpg" crc="4142993827" seo="true" ref="répliques:lambent-light-(sword-art-online)">
+      <caption webpage="lambent-light-(sword-art-online)" alt=""/>
+      <caption webpage="lambent-light-(sword-art-online)" alt=""/>
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u3315-4.png" crc="318032639" ref="répliques"/>
+    <file name="u3309-4.png" crc="93271018" ref="répliques"/>
+    <file name="12.jpg" crc="4203533968" seo="true" ref="répliques">
+      <caption webpage="répliques" alt=""/>
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u3343-4.png" crc="4075934159" ref="répliques"/>
+    <file name="u3337-4.png" crc="4043073862" ref="répliques"/>
+    <file name="u3122-42.png" crc="188668054" ref="répliques"/>
+    <file name="1435x245.jpg" crc="32534989" seo="true" ref="répliques">
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u601-42.png" crc="54535383" ref="répliques"/>
+    <file name="u3162-42.png" crc="3839852820" ref="répliques"/>
+    <file name="u3144-42.png" crc="462897771" ref="répliques"/>
+    <file name="13246x247.jpg" crc="240140788" seo="true" ref="répliques">
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u3315-42.png" crc="502312691" ref="répliques"/>
+    <file name="u3309-42.png" crc="3862084201" ref="répliques"/>
+    <file name="u3128-42.png" crc="368970323" ref="répliques"/>
+    <file name="2-crop-u8722.jpg" crc="352024767" seo="true" ref="répliques">
+      <caption webpage="répliques" alt=""/>
+    </file>
+    <file name="u901-42.png" crc="460321240" ref="répliques"/>
+    <file name="u3134-42.png" crc="4218199446" ref="répliques"/>
+    <file name="u1065-42.png" crc="3803756228" ref="répliques"/>
+    <file name="u3343-42.png" crc="117569785" ref="répliques"/>
+    <file name="u3337-42.png" crc="384182372" ref="répliques"/>
+    <file name="19773206582_d04a6d6018_o.jpg" crc="4142678845" ref="cosplay">
+      <caption webpage="cosplay" alt=""/>
+    </file>
+    <file name="u5117-5.png" crc="241267755" ref="cosplay"/>
+    <file name="u5117-52.png" crc="3870696590" ref="cosplay"/>
+    <file name="dsc_1770wm.jpg" crc="4183544058" ref="a-propos">
+      <caption webpage="a-propos" alt=""/>
+    </file>
+    <file name="dsc_1770wm2.jpg" crc="3769061663" seo="true" ref="a-propos">
+      <caption webpage="a-propos" alt=""/>
+    </file>
+    <file name="u5264-4.png" crc="407283804" ref="a-propos"/>
+    <file name="u5272-8.png" crc="3974966576" ref="a-propos"/>
+    <file name="dsc_1745wm.jpg" crc="4185397299" seo="true" ref="a-propos">
+      <caption webpage="a-propos" alt=""/>
+      <caption webpage="a-propos" alt=""/>
+    </file>
+    <file name="u5281-4.png" crc="31208059" ref="a-propos"/>
+    <file name="u5282-28.png" crc="3848209803" ref="a-propos"/>
+    <file name="dsc_1770wm327x492.jpg" crc="4262791923" seo="true" ref="a-propos">
+      <caption webpage="a-propos" alt=""/>
+    </file>
+    <file name="u5264-42.png" crc="4237709625" ref="a-propos"/>
+    <file name="u5272-82.png" crc="4180184843" ref="a-propos"/>
+    <file name="u5281-42.png" crc="127069617" ref="a-propos"/>
+    <file name="u5282-282.png" crc="4194998107" ref="a-propos"/>
+    <file name="u3813-6.png" crc="4188352568" ref="murasame(akame-ga-kill)"/>
+    <file name="14.jpg" crc="3810518248" seo="true" ref="murasame(akame-ga-kill)">
+      <caption webpage="murasame(akame-ga-kill)" alt=""/>
+      <caption webpage="murasame(akame-ga-kill)" alt=""/>
+    </file>
+    <file name="u3813-62.png" crc="4176438399" ref="murasame(akame-ga-kill)"/>
+    <file name="u3978-6.png" crc="4188352568" ref="sacrifar-(rave-master)"/>
+    <file name="2.jpg" crc="156180246" seo="true" ref="sacrifar-(rave-master)">
+      <caption webpage="sacrifar-(rave-master)" alt=""/>
+      <caption webpage="sacrifar-(rave-master)" alt=""/>
+    </file>
+    <file name="7.jpg" crc="489287222" seo="true" ref="sacrifar-(rave-master)">
+      <caption webpage="sacrifar-(rave-master)" alt=""/>
+      <caption webpage="sacrifar-(rave-master)" alt=""/>
+    </file>
+    <file name="u3978-62.png" crc="65531676" ref="sacrifar-(rave-master)"/>
+    <file name="u4048-6.png" crc="4188352568" ref="scisor-blade-(kill-la-kill)"/>
+    <file name="72.jpg" crc="262546353" seo="true" ref="scisor-blade-(kill-la-kill)">
+      <caption webpage="scisor-blade-(kill-la-kill)" alt=""/>
+      <caption webpage="scisor-blade-(kill-la-kill)" alt=""/>
+    </file>
+    <file name="u4048-62.png" crc="3877931001" ref="scisor-blade-(kill-la-kill)"/>
+    <file name="u4095-6.png" crc="4188352568" ref="elucidator-(sword-art-online)"/>
+    <file name="9.jpg" crc="4210326044" seo="true" ref="elucidator-(sword-art-online)">
+      <caption webpage="elucidator-(sword-art-online)" alt=""/>
+      <caption webpage="elucidator-(sword-art-online)" alt=""/>
+    </file>
+    <file name="u4095-62.png" crc="115555491" ref="elucidator-(sword-art-online)"/>
+    <file name="u4273-6.png" crc="4188352568" ref="lambent-light-(sword-art-online)"/>
+    <file name="8.jpg" crc="3806640278" seo="true" ref="lambent-light-(sword-art-online)">
+      <caption webpage="lambent-light-(sword-art-online)" alt=""/>
+      <caption webpage="lambent-light-(sword-art-online)" alt=""/>
+    </file>
+    <file name="u4273-62.png" crc="3928607029" ref="lambent-light-(sword-art-online)"/>
+    <file name="u4149-6.png" crc="4188352568" ref="scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="12-crop-u4151.jpg" crc="132191260" seo="true" ref="scisor-blade-(kill-la-kill)-2nd-partie">
+      <caption webpage="scisor-blade-(kill-la-kill)-2nd-partie" alt=""/>
+    </file>
+    <file name="10620382_1665061787100076_167074347610959692_o.jpg" crc="4101668099" seo="true" ref="scisor-blade-(kill-la-kill)-2nd-partie">
+      <caption webpage="scisor-blade-(kill-la-kill)-2nd-partie" alt=""/>
+      <caption webpage="scisor-blade-(kill-la-kill)-2nd-partie" alt=""/>
+    </file>
+    <file name="u4149-62.png" crc="4069742163" ref="scisor-blade-(kill-la-kill)-2nd-partie"/>
+    <file name="12-crop-u41512.jpg" crc="4131356476" seo="true" ref="scisor-blade-(kill-la-kill)-2nd-partie">
+      <caption webpage="scisor-blade-(kill-la-kill)-2nd-partie" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="163109673" seo="true" mt="1488835950562" redirect="true"/>
+  <file name="répliques.html" crc="3773556846" seo="true" mt="1488835950562" redirect="true"/>
+  <file name="cosplay.html" crc="38740621" seo="true" mt="1488836369266" redirect="true"/>
+  <file name="a-propos.html" crc="140537147" seo="true" mt="1488837275164" redirect="true"/>
+  <file name="murasame(akame-ga-kill).html" crc="384696223" seo="true" mt="1488835950562" redirect="true"/>
+  <file name="sacrifar-(rave-master).html" crc="4076952323" seo="true" mt="1488835950562" redirect="true"/>
+  <file name="scisor-blade-(kill-la-kill).html" crc="4266463604" seo="true" mt="1488835950562" redirect="true"/>
+  <file name="elucidator-(sword-art-online).html" crc="381019219" seo="true" mt="1488835950562" redirect="true"/>
+  <file name="lambent-light-(sword-art-online).html" crc="474474440" seo="true" mt="1488835950562" redirect="true"/>
+  <file name="scisor-blade-(kill-la-kill)-2nd-partie.html" crc="4071689238" seo="true" mt="1488835950562" redirect="true"/>
+</manifest>
