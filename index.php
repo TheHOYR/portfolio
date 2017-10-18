@@ -2,7 +2,7 @@
 <html>
 	<head>
 	<meta charset="UTF-8">
-	<title>LAHOUZE Benjamin</title>
+	<title>LAHOUZE Benjamin22</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 	<link rel="stylesheet" type="text/css" href="css/animate.css" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,800i|Titillium+Web:400,600,700,900" rel="stylesheet">
