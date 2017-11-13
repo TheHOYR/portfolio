@@ -178,8 +178,8 @@
 
 		<section id="contact" >
 		<h1>Contact</h1>
-			<p>Je suis actuellement à la recherche d'une entreprise pour une année d'alternance.<br>
-			Si vous êtes une entreprise et que vous réalisez du développement web n'hésitez plus, contactez-moi.</p>
+			<p>Je suis actuellement en alternance dans une entreprise de e-commerce.<br>
+			Si vous êtes intéressé par du développement web n'hésitez pas pour autant à me contacter</p>
 			<hr>
 			<p>Vous pouvez me contacter sur les réseaux sociaux</p>
 			<div id="blockImgSocial">
