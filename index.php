@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html>
 	<head>
 	<meta charset="UTF-8">
@@ -26,7 +26,7 @@
 		</header>
 
 		<section id="accueil" >
-			<div id="txtaccueil">	
+			<div id="txtaccueil">
 				<h1>Benjamin lahouze</h1>
 				<h2>Développeur Web</h2>
 			</div>
@@ -44,7 +44,7 @@
 					</center>
 						<h3 class="titledescr">Web</h3>
 					<div class="competenceDescr">
-						Je peux créer, refaire ou améliorer un site web, qu'il s'agisse d'un projet de site vitrine ou bien en ce basant sur une base de données. Je sais développer en HTML5/CSS3/javaScript/jQuery/PHP/Sql, gérer des projet web de bout en bout et appliquer des methodes de gestion, tel que la methode SCRUM, à ces projets.
+						Je peux créer, refaire ou améliorer un site web, qu'il s'agisse d'un projet de site vitrine ou bien en se basant sur une base de données. Je sais développer en HTML5/CSS3/javaScript/jQuery/PHP/Sql, gérer des projet web de bout en bout et appliquer des methodes de gestion, tel que la methode SCRUM, à ces projets.
 					</div>
 				</div>
 
@@ -76,7 +76,7 @@
 			<div id="cliqueUp">
 				<i class="fa fa-hand-o-up " aria-hidden="true"></i>
 				<i class="fa fa-hand-o-up " aria-hidden="true"></i>
-				<i class="fa fa-hand-o-up " aria-hidden="true"></i>	
+				<i class="fa fa-hand-o-up " aria-hidden="true"></i>
 			</div>
 			<div>
 				<h3 id="vienClique" class="competenceGenerale">Cliquez sur une compétence pour voir plus de détails</h3>
@@ -90,24 +90,24 @@
 
 				</div>
 				<div class="projectCard" id="projectLVN">
-					
+
 				</div>
 				<div class="projectCard" id="projectGoldenAnchor">
-					
+
 				</div>
 			</div>
 			<div id="secondLine" class="lineProject">
 				<div class="projectCard" id="projectScream2Screen">
-					
+
 				</div>
 				<div class="projectCard" id="projectNuitInfo">
-					
+
 				</div>
 				<div class="projectCard" id="projectFIAI">
-					
+
 				</div>
 			</div>
-			
+
 		</section>
 
 		<section id="experiences" >
@@ -143,7 +143,7 @@
 						<h3>Site Web de la FIAI</h3>
 						FIAI - Association des anciens étudiants du DUT Informatique - Annecy, France
 						<p class="descriptionExperience">
-							Il s'agit du projet principal de la seconde année du DUT Informatique, réalisé en groupe. 
+							Il s'agit du projet principal de la seconde année du DUT Informatique, réalisé en groupe.
 							L'objectif était de réaliser, à partir d'un projet existant, un site pour que l'association puisse publier des news et/ou organiser des évènements ainsi que poster des offres d'emploi et de stages.<br>
 							Il fallait également que le site gère la liste des élèves pour avoir un annuaire et pouvoir contacter les anciens élèves selon la promotion dans laquelle ils ont réalisés ses études.
 						</p>
@@ -177,7 +177,7 @@
 		</section>
 
 		<section id="contact" >
-		<h1>Contact</h1>	
+		<h1>Contact</h1>
 			<p>Je suis actuellement à la recherche d'une entreprise pour une année d'alternance.<br>
 			Si vous êtes une entreprise et que vous réalisez du développement web n'hésitez plus, contactez-moi.</p>
 			<hr>
@@ -185,12 +185,12 @@
 			<div id="blockImgSocial">
 
 				<a href="https://fr.linkedin.com/in/lahouzebenjamin" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-				
+
 				<a href="http://www.viadeo.com/p/0021ridpvucqrafo" target="_blank"><i class="fa fa-viadeo-square" aria-hidden="true"></i></a>
-				
+
 				<a href="https://www.facebook.com/benjamin.lahouze.1" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
-				
-				<a href="https://twitter.com/Bengie74" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>	
+
+				<a href="https://twitter.com/Bengie74" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
 			</div>
 			<hr>
 			<p>Vous pouvez également me contacter par mail</p>
