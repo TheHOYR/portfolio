@@ -37,11 +37,11 @@
 			<h1>COMPÉTENCES</h1>
 			<div id="tripleCompetences">
 				<div id="competenceWeb" class="competenceGenerale">
-					<center>
+					<div class="center">
 						<div class="competenceImg">
 							<i class="fa fa-html5" aria-hidden="true"></i>
 						</div>
-					</center>
+					</div>
 						<h3 class="titledescr">Web</h3>
 					<div class="competenceDescr">
 						Je peux créer, refaire ou améliorer un site web, qu'il s'agisse d'un projet de site vitrine ou bien en se basant sur une base de données. Je sais développer en HTML5/CSS3/javaScript/jQuery/PHP/Sql, gérer des projet web de bout en bout et appliquer des methodes de gestion, tel que la methode SCRUM, à ces projets.
@@ -49,12 +49,12 @@
 				</div>
 
 				<div id="competenceGraphismeDesign" class="competenceGenerale">
-					<center>
+					<div class="center">
 						<div class="competenceImg">
 							<i class="fa fa-pencil" aria-hidden="true"></i>
 							<br>
 						</div>
-					</center>
+					</div>
 						<h3 class="titledescr">Graphisme & Design</h3>
 					<div class="competenceDescr">
 						Je peux créer ou refondre le webdesign de sites Internet, réaliser un logo, une charte graphique une identité visuelle. En outre, je sais utiliser des outils tel que Photoshop/Illustrator/Première/AfterEffect/InDesign/Muse pour réaliser des documents tels que des plaquettes, des brochures, des affiches, des cartes de visite sans oublier le design de pages web responsive.
@@ -62,11 +62,11 @@
 				</div>
 
 				<div id="competenceConception" class="competenceGenerale">
-					<center>
+					<div class="center">
 						<div class="competenceImg">
 							<i class="fa fa-table" aria-hidden="true"></i>
 						</div>
-					</center>
+					</div>
 						<h3 class="titledescr">Optimisation de conception</h3>
 					<div class="competenceDescr">
 						La conception d'un site web est une partie essentielle, tant pour le front-end que pour le back-end. Je sais utiliser des logiciels de modelisation pour le front-ent tel que warframe sketcher et je sais appliquer la methode MERISE pour la conception back-end pour réaliser des Modèle du MCD au MPD. Les diagrammes UML tel que les usecase font également partie de la conception de mes projets.
@@ -122,14 +122,14 @@
 							La mission principale consistait à réaliser un module prestashop de foire aux questions, pour que les clients puissent poser des questions ainsi que se répondre. Toutes les questions et réponses nécessitent une validation des employés. <br>
 							Il s'agit d'un module complet qui allie des fonctionnalités en front-end pour les clients ainsi que les fonctionnalités de validation en back-office.
 						</p>
-						<center>
+						<div class="center">
 							<img src="./images/logo_competences/php.png">
 							<img src="./images/logo_competences/css.png">
 							<img src="./images/logo_competences/html.png">
 							<img src="./images/logo_competences/js.png">
 							<img src="./images/logo_competences/mysql.png">
 							<img src="./images/logo_competences/prestashop.png">
-						</center>
+						</div>
 					</div>
 					<div class="sideExperience rightExperience">
 						<h3>DUT informatique</h3>IUT - Université de Savoie - Annecy, France <br>
@@ -147,14 +147,14 @@
 							L'objectif était de réaliser, à partir d'un projet existant, un site pour que l'association puisse publier des news et/ou organiser des évènements ainsi que poster des offres d'emploi et de stages.<br>
 							Il fallait également que le site gère la liste des élèves pour avoir un annuaire et pouvoir contacter les anciens élèves selon la promotion dans laquelle ils ont réalisés ses études.
 						</p>
-						<center>
+						<div class="center">
 							<img src="./images/logo_competences/asp.net.png">
 							<img src="./images/logo_competences/css.png">
 							<img src="./images/logo_competences/html.png">
 							<img src="./images/logo_competences/js.png">
 							<img src="./images/logo_competences/merise.png">
 							<img src="./images/logo_competences/sql_server.png">
-						</center>
+						</div>
 					</div>
 					<div class="sideExperience rightExperience">
 					</div>
