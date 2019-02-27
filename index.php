@@ -112,9 +112,37 @@
 
 		<section id="experiences" >
 			<h1>Experiences</h1>
-			<h2>2017</h2>
+			<h2>Aujourd'hui</h2>
 			<div id="historiqueExperience">
-				<div class="ligne">
+                <h2>2019</h2>
+                <div class="ligne">
+                    <div class="sideExperience leftExperience">
+                        <h3>Alternance chez Domomat</h3>
+                        Domomat - Site de vente de matériel électrique - Seynod, France
+                        <p class="descriptionExperience">
+                            La mission principale consistait à réaliser une montée de version de prestashop ainsi qu'une optimisation de l'ensemble des fonctionnalités
+                            <br>
+                            Il s'agissait d'un travail conséquent car l'ensemble des fonctionalités à dû être adapté mais le design à également dû être refait.
+                        </p>
+                        <div class="center ligneCompetence">
+                            <img src="./images/logo_competences/php.png">
+                            <img src="./images/logo_competences/css.png">
+                            <img src="./images/logo_competences/html.png">
+                            <img src="./images/logo_competences/js.png">
+                            <img src="./images/logo_competences/mysql.png">
+                            <img src="./images/logo_competences/prestashop.png">
+                            <img src="./images/logo_competences/synfony.png">
+                        </div>
+                    </div>
+                    <div class="sideExperience rightExperience">
+                        <h3>Informatique et réseaux de communications (2017-2020)</h3>
+                        ESCPE Lyon - Université Claude Bernard Lyon 1 - Vileurbanne, France <br>
+                        <img id="logoCPE" src="./images/logo_cpe.png">
+
+                    </div>
+                </div>
+                <h2>2017</h2>
+                <div class="ligne">
 					<div class="sideExperience leftExperience">
 					<h3>Stage de fin d'étude</h3>
 						Domomat - Site de vente de matériel électrique - Seynod, France

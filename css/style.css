@@ -106,6 +106,10 @@ hr {
 
 }
 
+.center
+{
+	text-align: center;
+}
 
 /*
  _|      _|
@@ -459,10 +463,22 @@ Experience
 	margin-top: 1vh;
 	text-indent: 1vw;
 }
+
+.ligneCompetence
+{
+	margin-top: 2vh;
+}
+
 #logoIUT
 {
 	margin-top: 4vh;
 	margin-left: 5vh;
+}
+#logoCPE
+{
+	margin-top: 4vh;
+	margin-left: 5vh;
+	height: 9vh;
 }
 
 .myButton {
@@ -495,6 +511,7 @@ Experience
 {
 	display: flex;
 	justify-content: center;
+	margin-bottom: 2vh;
 }
 
 /*
