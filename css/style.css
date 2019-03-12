@@ -85,7 +85,7 @@ hr {
     height: 1px;
     /*background-image: linear-gradient(to right, rgba(192, 192, 192, 0), rgba(192, 192, 192, 0.75), rgba(192, 192, 192, 0));*/
     /*background-image: linear-gradient(to right, rgba(180, 151, 109,0), rgba(180, 151, 109,0.75), rgba(180, 151, 109,0));*/
-    background-image: linear-gradient(to right, rgba(74, 96, 117,0), rgba(74, 96, 117,0.75), rgba(74, 96, 117,0));
+    background-image: linear-gradient(to right, rgba(74, 96, 117,0), rgba(180, 151, 109, 0.75), rgba(74, 96, 117,0));
 
     display: block;
     margin:auto;
@@ -525,17 +525,20 @@ Contact
 */
 #contact
 {
-	background-image:url("../images/experience.jpg");
-	background-position: center;
+	background-image:url("../images/contact.jpg");
+	background-position-y: 80%;
+	background-position-x: left 15vw;
 	background-attachment:fixed;
 	background-size: cover;
+	background-repeat: no-repeat;
 	text-align: center;
 	color: #B4976D;
 	/*min-height: 100vh;*/
 	color: #B4976D;
 	font-weight: bold;
-	text-shadow: 0.5px 0.5px black;
+	text-shadow: 1px 1px black;
 	padding-bottom: 5vh;
+	background-color: #e4e4e4;
 }
 
 #contact p

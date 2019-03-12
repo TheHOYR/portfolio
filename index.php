@@ -114,7 +114,7 @@
 			<h1>Experiences</h1>
 			<h2>Aujourd'hui</h2>
 			<div id="historiqueExperience">
-                <h2>2019</h2>
+<!--                <h2>2019</h2>-->
                 <div class="ligne">
                     <div class="sideExperience leftExperience">
                         <h3>Alternance chez Domomat</h3>
@@ -205,24 +205,26 @@
 		</section>
 
 		<section id="contact" >
-		<h1>Contact</h1>
-			<p>Je suis actuellement en alternance dans une entreprise de e-commerce.<br>
-			Si vous êtes intéressé par du développement web n'hésitez pas pour autant à me contacter</p>
-			<hr>
-			<p>Vous pouvez me contacter sur les réseaux sociaux</p>
-			<div id="blockImgSocial">
+            <h1>Contact</h1>
+            <p><!--Je suis actuellement en alternance dans une entreprise de e-commerce.<br>-->
+            Je recherche un stage de 2 mois à l'étranger à partir du 17 juin 2019<br>
+                Si vous êtes intéressé, ou si vous connaissez quelqu'un qui peut l'être,<br>
+                n'hésitez pas à me contacter</p>
+            <hr>
+            <p>Vous pouvez me contacter sur les réseaux sociaux</p>
+            <div id="blockImgSocial">
 
-				<a href="https://fr.linkedin.com/in/lahouzebenjamin" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                <a href="https://fr.linkedin.com/in/lahouzebenjamin" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
 
-				<a href="http://www.viadeo.com/p/0021ridpvucqrafo" target="_blank"><i class="fa fa-viadeo-square" aria-hidden="true"></i></a>
+                <a href="http://www.viadeo.com/p/0021ridpvucqrafo" target="_blank"><i class="fa fa-viadeo-square" aria-hidden="true"></i></a>
 
-				<a href="https://www.facebook.com/benjamin.lahouze.1" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/benjamin.lahouze.1" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
 
-				<a href="https://twitter.com/Bengie74" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
-			</div>
-			<hr>
-			<p>Vous pouvez également me contacter par mail</p>
-			<p>blahouze@gmail.com</p>
+                <a href="https://twitter.com/Bengie74" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+            </div>
+            <hr>
+            <p>Vous pouvez également me contacter par mail</p>
+            <p>blahouze@gmail.com</p>
 		</section>
 
 		<footer>

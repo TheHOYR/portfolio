@@ -21,7 +21,7 @@ $(document).ready(function() {
 	                $('html, body').animate(
 	                {
 	                		scrollTop:$(the_id).offset().top-20
-	                }, 'slow');
+	                }, 1500);
 	                return false;
 	        });
 	});//fin smooth scroll
