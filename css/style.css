@@ -264,6 +264,7 @@ competences
 .competenceImg 
 {
 	font-size: 8vw;
+	transition: 0.5s linear;
 }
 
 #cliqueUp
@@ -272,6 +273,7 @@ competences
 	display: flex;
 	justify-content: space-around;
 	margin-top: 4vh;
+	transition: 0.5s linear;
 }
 
 #vienClique
@@ -279,6 +281,41 @@ competences
 	margin-top: 5vh;
 	font-size: 3vw;
 	text-align: center;
+}
+
+.circle
+{
+	width: 200px;
+	margin: 6px 20px 20px;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	vertical-align: top;
+}
+
+strongCircleLong {
+	position: absolute;
+	top: 50px;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	line-height: 45px;
+	font-size: 30px;
+}
+strongCircleShort {
+	position: absolute;
+	top: 70px;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	line-height: 45px;
+	font-size: 30px;
+}
+#flex
+{
+	display:flex;
+	justify-content:space-around;
+	transition: 0.5s linear;
 }
 
 

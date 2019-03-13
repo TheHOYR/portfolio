@@ -32,7 +32,6 @@
 			</div>
 		</section>
 
-
 		<section id="competences" >
 			<h1>COMPÉTENCES</h1>
 			<div id="tripleCompetences">
@@ -42,9 +41,9 @@
 							<i class="fa fa-html5" aria-hidden="true"></i>
 						</div>
 					</div>
-						<h3 class="titledescr">Web</h3>
+						<h3 class="titledescr">Développement</h3>
 					<div class="competenceDescr">
-						Je peux créer, refaire ou améliorer un site web, qu'il s'agisse d'un projet de site vitrine ou bien en se basant sur une base de données. Je sais développer en HTML5/CSS3/javaScript/jQuery/PHP/Sql, gérer des projet web de bout en bout et appliquer des methodes de gestion, tel que la methode SCRUM, à ces projets.
+                        Je peux réaliser des applications, qu'il s'agisse d'applications web ou de clients lourds. La gestion de bases de données associées m'est également familière. Je sais gérer des projets web de bout en bout et appliquer des méthodes de gestion, tel que la méthode SCRUM, à ces projets
 					</div>
 				</div>
 
@@ -57,7 +56,7 @@
 					</div>
 						<h3 class="titledescr">Graphisme & Design</h3>
 					<div class="competenceDescr">
-						Je peux créer ou refondre le webdesign de sites Internet, réaliser un logo, une charte graphique une identité visuelle. En outre, je sais utiliser des outils tel que Photoshop/Illustrator/Première/AfterEffect/InDesign/Muse pour réaliser des documents tels que des plaquettes, des brochures, des affiches, des cartes de visite sans oublier le design de pages web responsive.
+                        Je peux créer ou refondre le webdesign de sites Internet, réaliser un logo, une charte graphique, une identité visuelle. En outre, je sais utiliser des outils tel que ceux proposés dans la suite adobe pour réaliser des documents tels que des plaquettes, des brochures, des affiches, des cartes de visite sans oublier le design de pages web.
 					</div>
 				</div>
 
@@ -69,7 +68,7 @@
 					</div>
 						<h3 class="titledescr">Optimisation de conception</h3>
 					<div class="competenceDescr">
-						La conception d'un site web est une partie essentielle, tant pour le front-end que pour le back-end. Je sais utiliser des logiciels de modelisation pour le front-ent tel que warframe sketcher et je sais appliquer la methode MERISE pour la conception back-end pour réaliser des Modèle du MCD au MPD. Les diagrammes UML tel que les usecase font également partie de la conception de mes projets.
+                        La conception d'un site web est une partie essentielle, tant pour le front-end que pour le back-end. Je sais appliquer la méthode MERISE pour la conception back-end pour réaliser des Modèle du MCD au MPD. Les diagrammes UML tels que les usecase font également partie de la conception de mes projets.
 					</div>
 				</div>
 			</div>
@@ -235,7 +234,7 @@
 
 		<script type='text/javascript' src='js/jquery.js'></script>
 		<script type='text/javascript' src='js/jquery-ui.js'></script>
-		<script type='text/javascript' src='js/main.js'></script>
 		<script type='text/javascript' src='js/circle-progress.js' defer></script>
-	</body>
+        <script type='text/javascript' src='js/main.js'></script>
+        </body>
 </html>
